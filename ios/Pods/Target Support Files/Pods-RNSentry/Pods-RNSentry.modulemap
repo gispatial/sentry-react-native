@@ -1,0 +1,6 @@
+framework module Pods_RNSentry {
+  umbrella header "Pods-RNSentry-umbrella.h"
+
+  export *
+  module * { export * }
+}
